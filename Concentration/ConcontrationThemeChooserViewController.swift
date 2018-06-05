@@ -27,6 +27,7 @@ class ConcontrationThemeChooserViewController: UIViewController, UISplitViewCont
             if cvc.theme == nil {
                 return true
             }
+            
         }
         return false
     }
